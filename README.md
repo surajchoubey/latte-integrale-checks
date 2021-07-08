@@ -1,6 +1,28 @@
 # LATTE INTEGRALE CHECKS
 
-## 
+It contains integration values of Latte-Integrale Software compared with Simple MC Integration. <br/>
+Please do have `Latte-Integrale` installed to run the bash scripts `*sh` files. <br/><br/>
+
+The test_values function checks values expected and exact from the computed value(`integration_value`). <br/>
+```ruby test_values(NT integration_value, NT expected, NT exact) ``` <br/><br/>
+
+#### To check Answers in latte integrale
+
+1. Clone this repository and `cd` to this directory.
+2. Run directly through terminal if you have `latte` installed
+```
+bash simplex.sh > OUTPUTS/simplex.txt
+bash prod_simplex.sh > OUTPUTS/prod_simplex.txt
+bash cross.sh > OUTPUTS/cross.txt
+bash birkhoff.sh > OUTPUTS/birkhoff.txt
+```
+
+
+Outputs have been extracted as required out from the huge mess of output files and shown here down below.<br/>
+The tests values which are there in `simple_mc_integration.cpp` have been put here so you can compare easily with the `latte` values.
+
+Also I havent covered with cubes and rectangles because `latte` cannot support exponential functions ( they were pretty straightforward and can be calculated by hand/calculator )
+
 
 ### 1. Simplex Polytopes
 ```RUBY

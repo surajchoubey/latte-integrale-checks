@@ -23,7 +23,7 @@ bash birkhoff.sh > OUTPUTS/birkhoff.txt
 Outputs have been extracted as required out from the huge mess of output files and shown here down below.<br/>
 The tests values which are there in `simple_mc_integration.cpp` have been put here so you can compare easily with the `latte` values.
 
-Also I havent covered with cubes and rectangles because `latte` cannot support exponential functions ( they were pretty straightforward and can be calculated by hand/calculator )<br />
+Also I havent covered with cubes and rectangles because `latte` cannot support exponential functions ( they were pretty straightforward and can be calculated by hand/calculator even for a 10D function in which variables were separable i.e. `e^(-norm()^2` ) <br />
 
 I have added the `latte` commands too so you can check individually also.
 

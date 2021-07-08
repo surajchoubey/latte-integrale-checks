@@ -1,0 +1,100 @@
+Ray Support Algorithm.
+The codimension is 4
+  Left =   2,  Col =   3,  Size =        3  Time:  0.00  Left =   2,  Col =   3,  Size =        4,   Index = 0/1  Left =   2,  Col =   3,  Size =        4,  Time:  0.00                
+  Left =   1,  Col =   4,  Size =        4  Time:  0.00  Left =   1,  Col =   4,  Size =        4,  Time:  0.00                
+Integrating 3 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 1/3
+     Decimal: 0.33333333333333333333333333333333
+     Time: 0.00 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 1/3
+     Decimal: 0.33333333333333333333333333333333
+     Time: 0.00 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 1/3
+     Decimal: 0.33333333333333333333333333333333
+     Time: 0.00 sec
+Computational time (algorithms + processing + program control)
+     Total time: 0.00 sec
+Ray Support Algorithm.
+The codimension is 6
+  Left =   2,  Col =   5,  Size =        5  Time:  0.00  Left =   2,  Col =   5,  Size =        6,   Index = 0/2  Left =   2,  Col =   5,  Size =        9,  Time:  0.00                
+  Left =   1,  Col =   6,  Size =        9  Time:  0.00  Left =   1,  Col =   6,  Size =        9,  Time:  0.00                
+Integrating 5 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 1/12
+     Decimal: 0.083333333333333333333333333333333
+     Time: 0.00 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 1/12
+     Decimal: 0.083333333333333333333333333333333
+     Time: 0.00 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 1/12
+     Decimal: 0.083333333333333333333333333333333
+     Time: 0.00 sec
+Computational time (algorithms + processing + program control)
+     Total time: 0.00 sec
+Ray Support Algorithm.
+The codimension is 8
+  Left =   2,  Col =   7,  Size =        7  Time:  0.00  Left =   2,  Col =   7,  Size =        8,   Index = 0/3  Left =   2,  Col =   7,  Size =       16,  Time:  0.00                
+  Left =   1,  Col =   8,  Size =       16  Time:  0.00  Left =   1,  Col =   8,  Size =       16,  Time:  0.00                
+Integrating 7 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 1/90
+     Decimal: 0.011111111111111111111111111111111
+     Time: 0.00 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 1/90
+     Decimal: 0.011111111111111111111111111111111
+     Time: 0.01 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 1/90
+     Decimal: 0.011111111111111111111111111111111
+     Time: 0.01 sec
+Computational time (algorithms + processing + program control)
+     Total time: 0.03 sec
+Ray Support Algorithm.
+The codimension is 12
+  Left =   2,  Col =  11,  Size =       11  Time:  0.00  Left =   2,  Col =  11,  Size =       12,   Index = 0/5  Left =   2,  Col =  11,  Size =       36,  Time:  0.01                
+  Left =   1,  Col =  12,  Size =       36  Time:  0.01  Left =   1,  Col =  12,  Size =       36,  Time:  0.01                
+Integrating 11 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 11/302400
+     Decimal: 0.36375661375661375661375661375661e-4
+     Time: 0.18 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 11/302400
+     Decimal: 0.36375661375661375661375661375661e-4
+     Time: 0.04 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 11/302400
+     Decimal: 0.36375661375661375661375661375661e-4
+     Time: 0.51 sec
+Computational time (algorithms + processing + program control)
+     Total time: 0.75 sec
+Ray Support Algorithm.
+The codimension is 16
+  Left =   2,  Col =  15,  Size =       15  Time:  0.00  Left =   2,  Col =  15,  Size =       16,   Index = 0/7  Left =   2,  Col =  15,  Size =       64,  Time:  0.00                
+  Left =   1,  Col =  16,  Size =       64  Time:  0.00  Left =   1,  Col =  16,  Size =       64,  Time:  0.00                
+Integrating 15 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 11/457228800
+     Decimal: 0.24057977100305142633184961227289e-7
+     Time: 5.84 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 11/457228800
+     Decimal: 0.24057977100305142633184961227289e-7
+     Time: 0.18 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 11/457228800
+     Decimal: 0.24057977100305142633184961227289e-7
+     Time: 15.00 sec
+Computational time (algorithms + processing + program control)
+     Total time: 21.15 sec

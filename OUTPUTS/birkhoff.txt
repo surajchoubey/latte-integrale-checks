@@ -1,0 +1,211 @@
+Ray Support Algorithm.
+The codimension is 2
+  Left =   1,  Col =   2,  Size =        2  Time:  0.00  Left =   1,  Col =   2,  Size =        2,  Time:  0.00                
+Integrating 2 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 2/3
+     Decimal: 0.66666666666666666666666666666667
+     Time: 0.00 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 2/3
+     Decimal: 0.66666666666666666666666666666667
+     Time: 0.00 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 2/3
+     Decimal: 0.66666666666666666666666666666667
+     Time: 0.00 sec
+Computational time (algorithms + processing + program control)
+     Total time: 0.00 sec
+Ray Support Algorithm.
+The codimension is 9
+  Left =   5,  Col =   5,  Size =        5  Time:  0.00  Left =   5,  Col =   5,  Size =        6,   Index = 0/1  Left =   5,  Col =   5,  Size =        6,  Time:  0.00                
+  Left =   4,  Col =   6,  Size =        6  Time:  0.00  Left =   4,  Col =   6,  Size =        6,   Index = 0/2  Left =   4,  Col =   6,  Size =        8,  Time:  0.00                
+  Left =   3,  Col =   7,  Size =        8  Time:  0.00  Left =   3,  Col =   7,  Size =        7,   Index = 0/1  Left =   3,  Col =   7,  Size =        7,  Time:  0.00                
+  Left =   2,  Col =   8,  Size =        7  Time:  0.00  Left =   2,  Col =   8,  Size =        6,   Index = 0/1  Left =   2,  Col =   8,  Size =        6,  Time:  0.00                
+  Left =   1,  Col =   9,  Size =        6  Time:  0.00  Left =   1,  Col =   9,  Size =        6,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 6
+  Left =   2,  Col =   4,  Size =        4  Time:  0.00  Left =   2,  Col =   4,  Size =        5,   Index = 0/1  Left =   2,  Col =   4,  Size =        5,  Time:  0.00                
+  Left =   1,  Col =   5,  Size =        5  Time:  0.00  Left =   1,  Col =   5,  Size =        5,   Index = 0/1  Left =   1,  Col =   5,  Size =        5,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 6
+  Left =   2,  Col =   4,  Size =        4  Time:  0.00  Left =   2,  Col =   4,  Size =        5,   Index = 0/1  Left =   2,  Col =   4,  Size =        5,  Time:  0.00                
+  Left =   1,  Col =   5,  Size =        5  Time:  0.00  Left =   1,  Col =   5,  Size =        5,   Index = 0/1  Left =   1,  Col =   5,  Size =        5,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 6
+  Left =   2,  Col =   4,  Size =        4  Time:  0.00  Left =   2,  Col =   4,  Size =        5,   Index = 0/1  Left =   2,  Col =   4,  Size =        5,  Time:  0.00                
+  Left =   1,  Col =   5,  Size =        5  Time:  0.00  Left =   1,  Col =   5,  Size =        5,   Index = 0/1  Left =   1,  Col =   5,  Size =        5,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 6
+  Left =   2,  Col =   4,  Size =        4  Time:  0.00  Left =   2,  Col =   4,  Size =        5,   Index = 0/1  Left =   2,  Col =   4,  Size =        5,  Time:  0.00                
+  Left =   1,  Col =   5,  Size =        5  Time:  0.00  Left =   1,  Col =   5,  Size =        5,   Index = 0/1  Left =   1,  Col =   5,  Size =        5,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 6
+  Left =   2,  Col =   3,  Size =        4  Time:  0.00  Left =   2,  Col =   3,  Size =        5,   Index = 0/1  Left =   2,  Col =   3,  Size =        5,  Time:  0.00                
+  Left =   1,  Col =   5,  Size =        5  Time:  0.00  Left =   1,  Col =   5,  Size =        5,   Index = 0/1  Left =   1,  Col =   5,  Size =        5,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 6
+  Left =   2,  Col =   3,  Size =        4  Time:  0.00  Left =   2,  Col =   3,  Size =        5,   Index = 0/1  Left =   2,  Col =   3,  Size =        5,  Time:  0.00                
+  Left =   1,  Col =   5,  Size =        5  Time:  0.00  Left =   1,  Col =   5,  Size =        5,   Index = 0/1  Left =   1,  Col =   5,  Size =        5,  Time:  0.00                
+Integrating 5 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 17/360
+     Decimal: 0.047222222222222222222222222222222
+     Time: 0.00 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 17/360
+     Decimal: 0.047222222222222222222222222222222
+     Time: 0.00 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 17/360
+     Decimal: 0.047222222222222222222222222222222
+     Time: 0.00 sec
+Computational time (algorithms + processing + program control)
+     Total time: 0.00 sec
+Ray Support Algorithm.
+The codimension is 16
+  Left =   7,  Col =  10,  Size =       10  Time:  0.00  Left =   7,  Col =  10,  Size =       12,   Index = 0/4  Left =   7,  Col =  10,  Size =       30,  Time:  0.00                
+  Left =   6,  Col =  11,  Size =       30  Time:  0.00  Left =   6,  Col =  11,  Size =       24,   Index = 0/6  Left =   6,  Col =  11,  Size =       33,  Time:  0.00                
+  Left =   5,  Col =  12,  Size =       33  Time:  0.00  Left =   5,  Col =  12,  Size =       27,   Index = 0/6  Left =   5,  Col =  12,  Size =       54,  Time:  0.00                
+  Left =   4,  Col =  13,  Size =       54  Time:  0.00  Left =   4,  Col =  13,  Size =       44,   Index = 0/10  Left =   4,  Col =  13,  Size =       44,  Time:  0.00                
+  Left =   3,  Col =  14,  Size =       44  Time:  0.00  Left =   3,  Col =  14,  Size =       34,   Index = 0/10  Left =   3,  Col =  14,  Size =       34,  Time:  0.00                
+  Left =   2,  Col =  15,  Size =       34  Time:  0.00  Left =   2,  Col =  15,  Size =       24,   Index = 0/6  Left =   2,  Col =  15,  Size =       24,  Time:  0.00                
+  Left =   1,  Col =  16,  Size =       24  Time:  0.00  Left =   1,  Col =  16,  Size =       24,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   7,  Size =       18  Time:  0.00  Left =   2,  Col =   7,  Size =       15,   Index = 0/4  Left =   2,  Col =   7,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       16,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   7,  Size =       18  Time:  0.00  Left =   2,  Col =   7,  Size =       15,   Index = 0/4  Left =   2,  Col =   7,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       15,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   7,  Size =        9  Time:  0.00  Left =   3,  Col =   7,  Size =       10,   Index = 0/2  Left =   3,  Col =   7,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       14,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   7,  Size =       18  Time:  0.00  Left =   2,  Col =   7,  Size =       15,   Index = 0/4  Left =   2,  Col =   7,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       15,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   7,  Size =        9  Time:  0.00  Left =   3,  Col =   7,  Size =       10,   Index = 0/2  Left =   3,  Col =   7,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       14,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   7,  Size =       18  Time:  0.00  Left =   2,  Col =   7,  Size =       15,   Index = 0/4  Left =   2,  Col =   7,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       15,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   9,  Size =       18  Time:  0.00  Left =   2,  Col =   9,  Size =       15,   Index = 0/4  Left =   2,  Col =   9,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       16,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       14,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       14,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   9,  Size =       18  Time:  0.00  Left =   2,  Col =   9,  Size =       15,   Index = 0/4  Left =   2,  Col =   9,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       15,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   9,  Size =       18  Time:  0.00  Left =   2,  Col =   9,  Size =       15,   Index = 0/4  Left =   2,  Col =   9,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       15,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   9,  Size =       18  Time:  0.00  Left =   2,  Col =   9,  Size =       15,   Index = 0/4  Left =   2,  Col =   9,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       16,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       12,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       16,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       14,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       12,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       12,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       12,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       16,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   9,  Size =        9  Time:  0.00  Left =   3,  Col =   9,  Size =       10,   Index = 0/2  Left =   3,  Col =   9,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       14,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   5,  Size =       18  Time:  0.00  Left =   2,  Col =   5,  Size =       15,   Index = 0/4  Left =   2,  Col =   5,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       15,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   5,  Size =        9  Time:  0.00  Left =   3,  Col =   5,  Size =       10,   Index = 0/2  Left =   3,  Col =   5,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       14,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   5,  Size =       18  Time:  0.00  Left =   2,  Col =   5,  Size =       15,   Index = 0/4  Left =   2,  Col =   5,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       16,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =   5,  Size =        9  Time:  0.00  Left =   3,  Col =   5,  Size =       10,   Index = 0/2  Left =   3,  Col =   5,  Size =       13,  Time:  0.00                
+  Left =   2,  Col =  10,  Size =       13  Time:  0.00  Left =   2,  Col =  10,  Size =       12,   Index = 0/3  Left =   2,  Col =  10,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  11,  Size =       18  Time:  0.00  Left =   1,  Col =  11,  Size =       15,   Index = 0/4  Left =   1,  Col =  11,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   5,  Size =       18  Time:  0.00  Left =   2,  Col =   5,  Size =       15,   Index = 0/4  Left =   2,  Col =   5,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       16,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Ray Support Algorithm.
+The codimension is 12
+  Left =   3,  Col =  11,  Size =        9  Time:  0.00  Left =   3,  Col =  11,  Size =       10,   Index = 0/3  Left =   3,  Col =  11,  Size =       18,  Time:  0.00                
+  Left =   2,  Col =   5,  Size =       18  Time:  0.00  Left =   2,  Col =   5,  Size =       15,   Index = 0/4  Left =   2,  Col =   5,  Size =       18,  Time:  0.00                
+  Left =   1,  Col =  10,  Size =       18  Time:  0.00  Left =   1,  Col =  10,  Size =       15,   Index = 0/4  Left =   1,  Col =  10,  Size =       20,  Time:  0.00                
+Integrating 10 products of powers of linear forms.
+
+Integration of a polynomial as linear forms (using the triangulation method)
+     Answer: 1643/9979200
+     Decimal: 0.00016464245630912297578964245630912
+     Time: 0.24 sec
+Integration of a polynomial as linear forms (using the cone method)
+     Answer: 1643/9979200
+     Decimal: 0.00016464245630912297578964245630912
+     Time: 2.65 sec
+Integration of a polynomail as products of linear forms (using the triangulation method)
+     Answer: 1643/9979200
+     Decimal: 0.00016464245630912297578964245630912
+     Time: 0.61 sec
+Computational time (algorithms + processing + program control)
+     Total time: 3.57 sec

@@ -44,7 +44,7 @@ Integration of a polynomail as products of linear forms (using the triangulation
      
 ```
 
-###2. Product Simplices
+### 2. Product Simplices
 
 ```ruby
 	test_values(integration_value, 0.334, 0.333);

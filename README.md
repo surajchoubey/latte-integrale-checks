@@ -23,10 +23,16 @@ bash birkhoff.sh > OUTPUTS/birkhoff.txt
 Outputs have been extracted as required out from the huge mess of output files and shown here down below.<br/>
 The tests values which are there in `simple_mc_integration.cpp` have been put here so you can compare easily with the `latte` values.
 
-Also I havent covered with cubes and rectangles because `latte` cannot support exponential functions ( they were pretty straightforward and can be calculated by hand/calculator )
+Also I havent covered with cubes and rectangles because `latte` cannot support exponential functions ( they were pretty straightforward and can be calculated by hand/calculator )<br />
+
+I have added the `latte` commands too so you can check individually also.
+
+
 
 
 ### 1. Simplex Polytopes
+
+For `n` dimensional polytope created `n` dimensional polytope is formed and `n` dimensional function is integrated in here.
 ```RUBY
 test_values(integration_value, 0.67, 0.666);
 test_values(integration_value, 0.34, 0.333);
@@ -34,7 +40,15 @@ test_values(integration_value, 0.116, 0.1166);
 test_values(integration_value, 0.00656, 0.0063492);
 test_values(integration_value, 0.000159, 0.000159832);
 ```
-  
+
+```
+integrate --valuation=integrate --monomials=polynomials/1D.polynomial simplex/1D.latte
+integrate --valuation=integrate --monomials=polynomials/2D.polynomial simplex/2D.latte
+integrate --valuation=integrate --monomials=polynomials/3D.polynomial simplex/3D.latte
+integrate --valuation=integrate --monomials=polynomials/5D.polynomial simplex/5D.latte
+integrate --valuation=integrate --monomials=polynomials/7D.polynomial simplex/7D.latte
+```  
+
 ```RUBY
 // TEST-1
 Integration of a polynomail as products of linear forms (using the triangulation method)
@@ -70,12 +84,22 @@ Integration of a polynomail as products of linear forms (using the triangulation
 
 ### 2. Product Simplices
 
+For `n` dimensional polytope created `2n` dimensional polytope is formed and `2n` dimensional function is integrated in here.
+
 ```ruby
 	test_values(integration_value, 0.334, 0.333);
 	test_values(integration_value, 0.0834, 0.0833);
 	test_values(integration_value, 0.0110, 0.01111);
 	test_values(integration_value, 0.36e-4, 0.36375e-4);
 	test_values(integration_value, 0.235e-7, 0.24079e-7);
+```
+
+```
+integrate --valuation=integrate --monomials=polynomials/2D.polynomial prod_simplex/1D.latte
+integrate --valuation=integrate --monomials=polynomials/4D.polynomial prod_simplex/2D.latte
+integrate --valuation=integrate --monomials=polynomials/6D.polynomial prod_simplex/3D.latte
+integrate --valuation=integrate --monomials=polynomials/10D.polynomial prod_simplex/5D.latte
+integrate --valuation=integrate --monomials=polynomials/14D.polynomial prod_simplex/7D.latte
 ```
 
 ```ruby
@@ -114,12 +138,22 @@ Integration of a polynomail as products of linear forms (using the triangulation
 
 ### 3. Cross Polytopes
 
+For `n` dimensional polytope created `n` dimensional polytope is formed and `n` dimensional function is integrated in here.
+
 ```ruby
 	test_values(integration_value, 1.334, 1.333333);        // 1st dim
 	test_values(integration_value, 1.334, 1.33333);         // 2nd dim
 	test_values(integration_value, 0.935000, 0.933333);
 	test_values(integration_value, 0.200000, 0.203174);
 	test_values(integration_value, 0.020000, 0.020458);
+```
+
+```
+integrate --valuation=integrate --monomials=polynomials/1D.polynomial cross/1D.latte
+integrate --valuation=integrate --monomials=polynomials/2D.polynomial cross/2D.latte
+integrate --valuation=integrate --monomials=polynomials/3D.polynomial cross/3D.latte
+integrate --valuation=integrate --monomials=polynomials/5D.polynomial cross/5D.latte
+integrate --valuation=integrate --monomials=polynomials/7D.polynomial cross/7D.latte
 ```
 
 ```ruby
@@ -156,10 +190,18 @@ Integration of a polynomail as products of linear forms (using the triangulation
 
 ### 4. Birkhoff Polytopes
 
+For `n` dimensional polytope created `(n-1)^2` dimensional polytope is formed and `(n-1)^2` dimensional function is integrated in here.
+
 ```ruby
 	test_values(integration_value, 0.67, 0.6666);
 	test_values(integration_value, 0.0470, 0.04722);
 	test_values(integration_value, 0.000150, 0.000164);
+```
+
+```
+integrate --valuation=integrate --monomials=polynomials/1D.polynomial birkhoff/2D.latte
+integrate --valuation=integrate --monomials=polynomials/4D.polynomial birkhoff/3D.latte
+integrate --valuation=integrate --monomials=polynomials/9D.polynomial birkhoff/4D.latte
 ```
 
 ```ruby

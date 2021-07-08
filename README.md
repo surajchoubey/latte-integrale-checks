@@ -1,7 +1,7 @@
 # LATTE INTEGRALE CHECKS
 
 It contains integration values of Latte-Integrale Software compared with Simple MC Integration. <br/>
-Please do have `Latte-Integrale` installed to run the bash scripts `*sh` files. <br/><br/>
+Please do have `Latte-Integrale` installed to run the bash scripts `*.sh` files. <br/><br/>
 
 The test_values function checks values expected and exact from the computed value(`integration_value`). <br/>
 ```ruby 

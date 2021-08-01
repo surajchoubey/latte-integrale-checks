@@ -15,6 +15,7 @@ test_values(NT integration_value, NT expected, NT exact)
 1. Clone this repository and `cd` to this directory.
 ```
 git clone https://github.com/surajchoubey/latte-integrale-checks
+cd latte-integrale-checks
 ```
 2. Run directly through terminal if you have `latte` installed
 ```
